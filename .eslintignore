@@ -1,0 +1,8 @@
+node_modules/
+build/
+public/
+database/
+node-utils/
+appAssets/
+webpack.config.js
+gulpfile.js
